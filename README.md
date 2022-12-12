@@ -23,7 +23,7 @@ solution:https:https://colab.research.google.com/github/saipragna25/255--mid-ter
 
 4) Write decision trees from scratch and demonstrate it in colab
 
-solution:
+solution:https://colab.research.google.com/github/saipragna25/255--mid-term-catchup-assignment-decision-tree-and-ensembles/blob/main/random_forest_mid_catchup.ipynb
 
  
 
