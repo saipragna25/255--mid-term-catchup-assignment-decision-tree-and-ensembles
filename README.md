@@ -17,7 +17,7 @@ solution:
 
 3) Write adaboost algorithm from scratch and demonstrte it in colab
 
-solution:
+solution:https:https://colab.research.google.com/github/saipragna25/255--mid-term-catchup-assignment-decision-tree-and-ensembles/blob/main/Adaboost_mid_catchup.ipynb
 
 
 
