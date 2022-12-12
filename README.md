@@ -11,7 +11,7 @@ solution:
 
 2) Write random forest from scratdch and demonstrate it in colab
 
-solution:
+solution:https://colab.research.google.com/github/saipragna25/255--mid-term-catchup-assignment-decision-tree-and-ensembles/blob/main/descision_tree_midcatchup.ipynb
 
  
 
