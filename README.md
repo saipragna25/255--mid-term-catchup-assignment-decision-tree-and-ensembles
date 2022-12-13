@@ -4,7 +4,7 @@
 
 i)- Write classic GBM method from scratch in python and demonstrate in colab
 
-solution:
+solution: https://colab.research.google.com/github/saipragna25/255--mid-term-catchup-assignment-decision-tree-and-ensembles/blob/main/GBM_midcatchup.ipynb
 
 
  
